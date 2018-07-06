@@ -14,7 +14,7 @@ Questão 3, “faro investigativo”.
 
 ## Leia-me
 
-As questões foram separadas por pastas para melhor entendimento e cada pasta contem um README.md explicando como rodas o arquivo fonte.
+As questões foram separadas por pastas para melhor entendimento e cada pasta contem um README.md explicando como executar o arquivo fonte.
 
 OBS: Na questão 2 além de ter o código fonte contém um pdf dos resultados encontrados.
 
