@@ -8,9 +8,9 @@ Sim concorrer a vaga de estágio mas, também encarar esse Projeto como um desaf
 
 ## Segue as questões?
 
-### Questão 1 será resolvida em Python. 
-### Questão 2, solução resolvida utilizado a linguagem procedural SQL Oracle executando na WEB.
-### Questão 3, “faro investigativo”.
+#### Questão 1 será resolvida em Python. 
+#### Questão 2, solução resolvida utilizado a linguagem procedural SQL Oracle executando na WEB.
+#### Questão 3, “faro investigativo”.
 
 ## Leia-me
 
