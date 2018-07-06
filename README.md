@@ -4,7 +4,7 @@ O objetivo é resolver as três questões separadas por área de conhecimento.
 
 ## Objetivo do Projeto
 
-Sim concorrer a vaga de estágio mas, também encarar esse Projeto como um desavio que deve ser resolvido.
+Sim concorrer a vaga de estágio mas, também encarar esse Projeto como um desafio que deve ser resolvido.
 
 ## Segue as questões?
 
