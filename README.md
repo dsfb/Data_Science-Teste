@@ -1,4 +1,4 @@
-# Projeto Data Science
+﻿# Projeto Data Science
 
 O objetivo é resolver as três questões separadas por área de conhecimento.
 

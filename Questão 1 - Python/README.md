@@ -1,6 +1,8 @@
 ﻿#  Projeto Data Science - Questão 1 
 
-## O que vai ser feito?
+## Como foi feito?
+
+Para execução do Algoritmo foi utilização o Software Anaconda (Ferramenta de Análise de Dados)
 
 ####
 ## Requisitos

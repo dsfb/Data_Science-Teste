@@ -1,1 +1,2 @@
-house_infos = open('house_infos.csv', 'r')
+import pandas as pd
+train_df = pd.read_csv('house_infos.csv')
