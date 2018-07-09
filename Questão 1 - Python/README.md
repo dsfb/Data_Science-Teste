@@ -23,3 +23,4 @@
 #### m. Salvar o gráfico em formato png com o nome house_analysis.png.
 #### n. Exportar o dataframe final para um arquivo pickle com nome processed_data.p
 
+## OBS: Contém arquivo pdf com explicação do Código 
