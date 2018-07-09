@@ -3,7 +3,7 @@
 ## Como foi feito?
 
 #### Para execução do Algoritmo foi utilização o Software Anaconda (Ferramenta de Análise de Dados)
-#### Ambiente de desenvolvimento -  Jupiter rodando na Web, arquivos salvos em python mas também no modelo Jupiter se desejarem.
+#### Ambiente de desenvolvimento -  Jupyter rodando na Web, arquivos salvos em python mas também no modelo Jupiter se desejarem.
 
 
 ## Requisitos
