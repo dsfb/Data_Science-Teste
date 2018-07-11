@@ -23,3 +23,4 @@
 #### m. Salvar o gráfico em formato png com o nome house_analysis.png.
 #### n. Exportar o dataframe final para um arquivo pickle com nome processed_data.p
 
+## OBS: Abrir código no Jupyter ou no github para melhor visualização do algoritmo
