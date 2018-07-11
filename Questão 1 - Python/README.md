@@ -3,7 +3,7 @@
 ## Como foi feito?
 
 #### Para execução do Algoritmo foi utilização o Software Anaconda (Ferramenta de Análise de Dados)
-#### Ambiente de desenvolvimento -  Jupiter rodando na Web, arquivos salvos em python mas também no modelo Jupiter se desejarem.
+#### Ambiente de desenvolvimento -  Jupyter rodando na Web, arquivos salvos em python mas também no modelo Jupiter se desejarem.
 
 
 ## Requisitos
@@ -22,5 +22,6 @@
 #### l. Utilizando um eixo y secundário no mesmo gráfico, acrescente um gráfico de linha para AvgOverallQual x YearBuilt.
 #### m. Salvar o gráfico em formato png com o nome house_analysis.png.
 #### n. Exportar o dataframe final para um arquivo pickle com nome processed_data.p
+
 
 ## OBS: Abrir código no Jupyter ou no github para melhor visualização do algoritmo
